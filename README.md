@@ -18,7 +18,7 @@
     }
 }
 
-public class task1 {: Kode dimulai dengan mendefinisikan kelas Java yang dinamakan task1. 
+public class task1 {: code dimulai dengan mendefinisikan kelas Java yang dinamakan task1. 
 public static void main(String[] args) {: metode utama (entry point) dari program. Semua kode yang ada di dalam blok ini akan dieksekusi saat program dimulai.
 String name = "Linia Nur Aini";: Baris ini mendefinisikan variabel name sebagai objek String.
 String NPM = "G1A023007";: Baris ini mendefinisikan variabel NPM sebagai objek String.
@@ -26,7 +26,7 @@ System.out.println("Nama : " + name);: Baris ini mencetak teks "Nama : " diikuti
 System.out.println("NPM : " + NPM);: Baris ini mencetak teks "NPM : " diikuti oleh nilai dari variabel NPM ke layar menggunakan System.out.println.
 System.out.println("=================");: Baris ini mencetak garis pemisah berupa karakter "=" ke layar.
 
-for (int i = 0 ; i<=100 ; i++) {: Baris ini memulai sebuah perulangan for. Variabel i diinisialisasi dengan nilai 0, dan perulangan akan terus berlanjut selama i kurang dari atau sama dengan 100. Setiap iterasi, nilai i akan bertambah satu.
+for (int i = 0 ; i<=100 ; i++) {: Variabel i diinisialisasi dengan nilai 0, dan perulangan akan terus berlanjut selama i kurang dari atau sama dengan 100. Setiap iterasi, nilai i akan bertambah satu.
 if (i >= 10) {: Baris ini memulai sebuah pernyataan if yang akan mengecek apakah nilai i lebih besar dari atau sama dengan 10.
 System.out.println(name);: Jika nilai i lebih besar dari atau sama dengan 10,
 else {: Bagian else dari pernyataan if.
